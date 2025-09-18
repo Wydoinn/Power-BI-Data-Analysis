@@ -2,7 +2,13 @@
 
 This repository contains a **Power BI Dashboard** built on a second-hand car sales dataset. The dashboard provides **interactive insights** into car sales trends, pricing, performance, and fuel type distribution.
 
-📊 **Dataset**: [Car Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/msnbehdani/mock-dataset-of-second-hand-car-sales)
+
+![Demo](https://github.com/user-attachments/assets/37067270-5b55-413e-bab5-1c4b43bfb7ab)
+
+
+## 📑 Dataset
+
+📊 **Source**: [Car Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/msnbehdani/mock-dataset-of-second-hand-car-sales)
 
 
 ## 📂 Project Structure
@@ -142,4 +148,5 @@ CALCULATE(
 * Porsche has the **highest average price distribution**.
 * Hybrid cars show **higher median pricing**.
 * Clear depreciation trend: **older cars = lower average prices**.
+
 
