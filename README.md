@@ -20,8 +20,6 @@ This repository contains a collection of **interactive dashboards and reports** 
 
 👉 [View Project Folder](./Car%20Sales%20Analytics%20Dashboard)
 
----
-
 
 ## 📥 Getting Started
 
