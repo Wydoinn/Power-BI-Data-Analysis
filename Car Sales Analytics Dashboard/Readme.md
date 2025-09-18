@@ -102,30 +102,29 @@ CALCULATE(
 
 ### 🏠 Home Page
 
-![Home Page](./screenshots/home.png)
+![Home Page](https://github.com/user-attachments/assets/9fe68267-182c-49ce-a498-cf560b211893)
 
 ### 📊 Overview Page
 
-![Overview](./screenshots/overview.png)
+![Overview Page](https://github.com/user-attachments/assets/b676ed64-c76e-4d16-8b6c-8cd415f8797c)
 
 ### 💰 Pricing Page
 
-![Pricing](./screenshots/pricing.png)
+![Pricing Range](https://github.com/user-attachments/assets/65d38acf-5f52-40ff-b929-d16a8b9e803d)
 
 ### 🔧 Performance Page
 
-![Performance](./screenshots/performance.png)
+![Performance Page](https://github.com/user-attachments/assets/39d059fd-37b5-40d5-8110-6edfc2a44e40)
 
 ### 🔍 Drillthrough Page
 
-![Drillthrough](./screenshots/drillthrough.png)
+![Drillthrough Page](https://github.com/user-attachments/assets/9418d338-b6de-4d00-9e02-f74dae738655)
 
 
 ## 🎨 Theme
 
 * **Purple theme** implemented in **light mode**.
 * Consistent slicer styling and KPI card design.
-
 
 
 ## 🚀 Features
@@ -137,19 +136,10 @@ CALCULATE(
 * **Comparative analysis**: Price vs Age, Price vs Engine Size, Sales Distribution.
 
 
-## 📌 How to Use
-
-1. Download the dataset from Kaggle.
-2. Open `Car_Sales_Analytics.pbix` in Power BI.
-3. Refresh data source to load dataset.
-4. Navigate using the **Home Page buttons**.
-5. Apply slicers to interact with the report.
-6. Right-click on visuals to **drillthrough** into model/manufacturer details.
-
-
 ## 📈 Insights
 
 * Ford and VW dominate sales volume.
 * Porsche has the **highest average price distribution**.
 * Hybrid cars show **higher median pricing**.
 * Clear depreciation trend: **older cars = lower average prices**.
+
