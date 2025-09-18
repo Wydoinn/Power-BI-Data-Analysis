@@ -33,3 +33,7 @@ This repository contains a collection of **interactive dashboards and reports** 
 2. Open any project folder.
 3. Launch the `.pbix` file in Power BI Desktop.
 4. Explore the interactive dashboards and reports.
+
+## 🤝 Contributing
+
+This is a personal portfolio repo, but suggestions and improvements are always welcome!
