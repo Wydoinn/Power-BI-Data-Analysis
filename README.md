@@ -12,6 +12,7 @@ This repository contains a collection of **interactive dashboards and reports** 
 * **Dataset:** Second-hand Car Sales Dataset (Kaggle)
 * **Techniques Used:** Power Query, DAX, Data Modeling, Interactive Visuals
 * **Highlights:**
+  
   * KPI cards for Sales, Revenue, Avg Price, Fuel Type Distribution
   * Drill-down filters by Make, Model, Year, and Region
   * Sales trend analysis with forecasting
