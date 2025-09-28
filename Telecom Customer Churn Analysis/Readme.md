@@ -177,6 +177,30 @@ A professionally crafted Power BI theme with a modern, clean aesthetic designed 
 - Drill-through capabilities between pages
 - Cross-filtering across all visuals
 
+## 📸 Dashboard Screenshots
+
+### Executive Summary (High-Level KPIs)
+<img width="1433" height="806" alt="Screenshot 2025-09-28 111053" src="https://github.com/user-attachments/assets/bd84eee5-da47-460c-8558-f8693e53968f" />
+
+### Churn Drivers Analysis
+<img width="1439" height="798" alt="Screenshot 2025-09-28 111106" src="https://github.com/user-attachments/assets/4d7f0e4b-ea32-4c59-a8a3-deb04f455dd8" />
+
+### Financial Insights & Retention Strategy
+<img width="1436" height="801" alt="Screenshot 2025-09-28 111118" src="https://github.com/user-attachments/assets/ef783745-9fde-4258-a6e5-8c4b7df6b44c" />
+
+### Customer Segmentation & Risk Analysis
+<img width="1436" height="798" alt="Screenshot 2025-09-28 111132" src="https://github.com/user-attachments/assets/32556cc8-e02e-4c57-90df-f0e9ab783067" />
+
+### Service Usage vs Churn
+<img width="1437" height="803" alt="Screenshot 2025-09-28 111149" src="https://github.com/user-attachments/assets/86da5670-d1a6-4b47-85c7-24c94895ad31" />
+
+### Tenure & Billing Patterns
+<img width="1437" height="805" alt="Screenshot 2025-09-28 111202" src="https://github.com/user-attachments/assets/399176e0-48c2-4433-a90e-a63fd025e3cb" />
+
+### Predictive Indicators & What-If Analysis
+<img width="1439" height="803" alt="Screenshot 2025-09-28 111215" src="https://github.com/user-attachments/assets/24e44883-1a5a-46d2-a6de-3eddec8ceb06" />
+
+
 ## 🔍 Key Business Insights
 
 ### 1. Contract Type Impact
