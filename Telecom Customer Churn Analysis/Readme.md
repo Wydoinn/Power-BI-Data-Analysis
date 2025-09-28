@@ -204,21 +204,60 @@ A professionally crafted Power BI theme with a modern, clean aesthetic designed 
 ## 🔍 Key Business Insights
 
 ### 1. Contract Type Impact
-- **Month-to-month**: 42.7% churn rate
-- **One-year**: 11.3% churn rate
-- **Two-year**: 2.8% churn rate
+- **Month-to-month**: 42.7% churn rate (3,875 customers)
+- **One-year**: 11.3% churn rate (1,473 customers)  
+- **Two-year**: 2.8% churn rate (1,695 customers)
+- **Strategic Finding**: Longer contract commitments reduce churn by up to 93%
 
-### 2. Service Dependencies
-- Customers with comprehensive service packages show 23% lower churn
-- Tech support adoption reduces churn by 15%
-- Online security services correlate with higher retention
+### 2. Tenure Patterns & Customer Lifecycle
+- **Critical period**: 0-12 months (47.4% churn rate - highest vulnerability)
+- **Improvement phase**: 13-24 months (35.2% churn rate)
+- **Stabilization**: 25-48 months (15.6% churn rate) 
+- **Loyalty segment**: 49+ months (6.4% churn rate)
+- **Key Finding**: Customer retention dramatically improves after the 12-month milestone
 
-### 3. Payment Method Risk
-- Electronic check: Highest churn risk
-- Credit card (automatic): Lowest churn risk
-- Bank transfer: Moderate risk
+### 3. Payment Method Risk Assessment
+- **Electronic check**: 45.3% churn rate (highest risk payment method)
+- **Mailed check**: 19.1% churn rate
+- **Bank transfer (automatic)**: 16.2% churn rate
+- **Credit card (automatic)**: 15.2% churn rate (most secure payment method)
+- **Strategic Insight**: Automatic payment methods reduce churn by 66% compared to electronic checks
 
-### 4. Tenure Patterns
-- Critical period: First 12 months (highest churn risk)
-- Stability threshold: 24+ months (significant churn reduction)
-- Loyalty segment: 48+ months (minimal churn)
+### 4. Service Bundle Dependencies & Add-on Impact
+- **Internet Service Analysis**:
+  - Fiber optic customers: 30.9% churn rate
+  - DSL customers: 18.8% churn rate
+  - No internet service: 7.4% churn rate
+- **Security Services Impact**:
+  - Without online security: 41.8% churn rate
+  - With online security: 14.6% churn rate (65% churn reduction)
+- **Tech Support Correlation**:
+  - Without tech support: 41.7% churn rate  
+  - With tech support: 15.2% churn rate (64% churn reduction)
+- **Service Bundle Finding**: Customers with 3+ additional services show 58% lower churn rates
+
+### 5. Demographics & Customer Profile Analysis
+- **Senior Citizens**: 41.7% churn rate (significantly higher than average)
+- **Non-senior citizens**: 23.6% churn rate
+- **Gender Impact**: Minimal difference (Female: 26.9%, Male: 26.2%)
+- **Family Structure**: 
+  - Without partners: 33.0% churn rate
+  - With partners: 19.7% churn rate
+  - With dependents: 15.5% churn rate (family stability reduces churn)
+
+### 6. Financial Behavior Patterns
+- **High-value customers** (>$80 monthly): 32.1% churn rate
+- **Mid-tier customers** ($40-80 monthly): 18.3% churn rate  
+- **Budget customers** (<$40 monthly): 9.2% churn rate
+- **Paperless billing**: 33.6% churn rate vs 16.4% for traditional billing
+- **Revenue Impact**: $2.9M annual revenue at risk from churned customers
+
+### 7. Service Utilization & Streaming Patterns
+- **Streaming TV**: 
+  - With service: 28.5% churn rate
+  - Without service: 21.3% churn rate
+- **Streaming Movies**: Similar pattern to TV streaming
+- **Multiple Lines**:
+  - Single line: 25.5% churn rate
+  - Multiple lines: 18.4% churn rate
+- **Phone Service**: 90.3% of all customers have phone service (minimal churn impact)
