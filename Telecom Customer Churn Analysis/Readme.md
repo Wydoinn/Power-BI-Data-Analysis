@@ -2,6 +2,10 @@
 
 A comprehensive Power BI dashboard analyzing customer churn patterns in the telecommunications industry, providing actionable insights for customer retention strategies.
 
+
+![Demo](https://github.com/user-attachments/assets/23de14dd-ff5a-4b87-a832-50177ae368b2)
+
+
 ## 📊 Project Overview
 
 Customer churn is a critical challenge in telecommunications, where retaining existing customers is significantly more cost-effective than acquiring new ones. This project analyzes customer behavior patterns, identifies churn drivers, and provides strategic recommendations for improving customer retention.
@@ -194,12 +198,3 @@ A professionally crafted Power BI theme with a modern, clean aesthetic designed 
 - Critical period: First 12 months (highest churn risk)
 - Stability threshold: 24+ months (significant churn reduction)
 - Loyalty segment: 48+ months (minimal churn)
-
-
-## 🛠️ Tools & Technologies
-
-- **Power BI Desktop**: Dashboard development and visualization
-- **Custom Theme**: "Plexus Theme" - professionally designed color palette and styling
-- **Power Query**: Data transformation and preparation
-- **DAX**: Advanced calculations and measures
-- **Excel**: Initial data exploration and validation
