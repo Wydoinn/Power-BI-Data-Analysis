@@ -1,0 +1,248 @@
+{
+  "name": "BMW Premium Luxe Dark",
+  "dataColors": [
+    "#6C5CE7",
+    "#A29BFE",
+    "#00B894",
+    "#00CEC9",
+    "#FDCB6E",
+    "#E17055",
+    "#FD79A8",
+    "#74B9FF",
+    "#FF7675",
+    "#55EFC4"
+  ],
+  "background": "#121622",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#6C5CE7",
+  "good": "#00B894",
+  "neutral": "#FDCB6E",
+  "bad": "#FF7675",
+  "maximum": "#6C5CE7",
+  "center": "#A29BFE",
+  "minimum": "#00B894",
+  "null": "#1B2230",
+  "textClasses": {
+    "callout": {
+      "fontSize": 36,
+      "fontFace": "Segoe UI Light",
+      "color": "#FFFFFF"
+    },
+    "title": {
+      "fontSize": 18,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#E6E6E6"
+    },
+    "header": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#BFC5CC"
+    },
+    "label": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#AAB0B6"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#181E2C" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "color": { "solid": { "color": "#2E3A4A" } },
+            "show": true,
+            "radius": 8
+          }
+        ],
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "background": { "solid": { "color": "#181E2C" } },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#1C2230" } },
+            "foregroundColor": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "filterCard": [
+          {
+            "backgroundColor": { "solid": { "color": "#1C2230" } },
+            "foregroundColor": { "solid": { "color": "#E6E6E6" } },
+            "inputBoxColor": { "solid": { "color": "#2E3A4A" } },
+            "border": "#3A4558",
+            "hoverColor": "#6C5CE7",
+            "selectedColor": "#A29BFE"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontSize": 13,
+            "color": { "solid": { "color": "#AAB0B6" } }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "fontSize": 30,
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#1C2333" } }
+          }
+        ]
+      }
+    },
+    "multiRowCard": {
+      "*": {
+        "card": [
+          {
+            "outline": "None",
+            "background": { "solid": { "color": "#1C2333" } }
+          }
+        ],
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#6C5CE7" } },
+            "fontSize": 15,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "dataLabels": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 26,
+            "fontFamily": "Segoe UI Light"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#AAB0B6" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "fontColor": { "solid": { "color": "#C5CAD0" } },
+            "fontSize": 9
+          }
+        ],
+        "valueAxis": [
+          {
+            "fontColor": { "solid": { "color": "#C5CAD0" } },
+            "fontSize": 9
+          }
+        ],
+        "dataPoint": [
+          { "showAllDataPoints": true }
+        ]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "categoryAxis": [
+          {
+            "fontColor": { "solid": { "color": "#C5CAD0" } },
+            "fontSize": 9
+          }
+        ],
+        "valueAxis": [
+          {
+            "fontColor": { "solid": { "color": "#C5CAD0" } },
+            "fontSize": 9
+          }
+        ],
+        "dataLabels": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 10
+          }
+        ]
+      }
+    },
+    "pieChart": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 10
+          }
+        ],
+        "slices": [
+          { "innerRadiusRatio": 45 }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#1C2333" } } }
+        ],
+        "header": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#6C5CE7" } },
+            "background": { "solid": { "color": "#181E2C" } },
+            "fontSize": 13
+          }
+        ],
+        "items": [
+          {
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "background": { "solid": { "color": "#1C2333" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridVerticalColor": { "solid": { "color": "#374355" } },
+            "gridHorizontal": true,
+            "gridHorizontalColor": { "solid": { "color": "#374355" } },
+            "rowPadding": 3
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#6C5CE7" } },
+            "backColor": { "solid": { "color": "#181E2C" } },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Bold"
+          }
+        ],
+        "values": [
+          {
+            "fontColorPrimary": { "solid": { "color": "#FFFFFF" } },
+            "backColorPrimary": { "solid": { "color": "#1C2333" } },
+            "fontColorSecondary": { "solid": { "color": "#FFFFFF" } },
+            "backColorSecondary": { "solid": { "color": "#141A27" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}
