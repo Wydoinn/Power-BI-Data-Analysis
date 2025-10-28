@@ -1,4 +1,4 @@
-# 🚗 BMW Worldwide Sales Analytics Dashboard
+# 🚗 BMW Sales Analysis Dashboard
 
 This repository contains a **Power BI Dashboard** built on BMW's global sales dataset (2010-2024). The dashboard provides **interactive insights** into BMW's worldwide sales performance, revenue trends, regional distribution, and model rankings across 50,000+ transactions.
 
@@ -341,3 +341,4 @@ Custom Power BI theme file included: `Theme.json`
 * **"High" sales** transactions average **7,500+ units** per transaction
 * Geographic concentration of high-value sales in Asia and Europe
 * Correlation between newer models and high sales classification
+
